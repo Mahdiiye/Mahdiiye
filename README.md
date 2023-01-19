@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
  </p>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
